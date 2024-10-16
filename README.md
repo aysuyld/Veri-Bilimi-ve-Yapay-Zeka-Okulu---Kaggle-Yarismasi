@@ -1,0 +1,1 @@
+# Veri-Bilimi-ve-Yapay-Zeka-Okulu---Kaggle-Yarismasi
