@@ -64,8 +64,8 @@ Not:  22/23 Sezon Başı piyasa değeri $5M altında, 24/25 Sezon Başı piyasa 
 Link: https://www.kaggle.com/competitions/veri-bilimi-ve-yapay-zeka-okulu-kaggle-yarismasi/overview
 
 ### Skorlar
-Private Score   ->  0.25
-Public Score    ->  0.29
+-Private Score   ->  0.25
+-Public Score    ->  0.29
 
 ### Sonuçlar ve Değerlendirme
 Bu projede, veri seti üzerinde çeşitli analizler ve modelleme çalışmaları gerçekleştirdim. Analiz sonucunda elde edilen model doğruluk oranı 1.0 olsa da, yarışmadaki F1 skoru metriği esas alındığında puanım 0.25 olarak hesaplandı. Bu durumun nedeni, modelin veri setine uygun tahminler üretememesi veya overfitting yapması olabilir.
